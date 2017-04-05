@@ -2,10 +2,10 @@
 
 Diğer kategorilerde olduğu gibi Labirent Kategorisi’nde de Genel Kurallar geçerlidir.
 
-#Yarışmanın Amacı
+# Yarışmanın Amacı
 Labirent kategorisinde yarışmacılar parkuru tamamlamak için yarışırlar.
 
-#A) Kategori Kuralları
+# A) Kategori Kuralları
 
 1. Yarışmada robotlar labirentin başlangıç noktasından başlar ve en kısa sürede bitiş noktasına varmaya çalışır.
 2. Her robot sırayla yarışacaktır.

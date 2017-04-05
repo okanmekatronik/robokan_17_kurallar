@@ -25,7 +25,8 @@ Okan Üniversitesi Mekatronik Kulübü tarafından ikinci kez düzenlenecek 
 6. Mekatronik Kulübü organizasyon esnasında düzeni bozacak şekilde davranış sergileyen herhangi bir yarışmacıyı diskalifiye etme hakkına sahiptir.
 7. Başka bir yarışmacının robotuna, kişisel eşyasına veya organizasyon alanındaki herhangi bir eşyaya zarar verdiği tespit edilen kişi grubuyla birlikte diskalifiye edilecektir.
 8. Okul ya da grupların izin almadan (broşür, afiş, roll-up vb.) reklam içerikli tanıtım yapmaları yasaktır.
-C) Yarışma Kuralları ve İtirazları
+
+## C) Yarışma Kuralları ve İtirazları
 1. Yarışmaya katılacak her robottan bir kişi sorumludur.
 2. Bir kişi her bir kategoride en fazla 3 robottan sorumlu olabilir. (Bir kişinin 6 kategoriye
 de katıldığını varsayarsak kategori başına 3 robottan hesaplandığında toplamda 18 robot ile katılabilir. Aynı kişinin bir kategoriye ait 3’den fazla robotu var ise, diğer robotlarını başka biri adına kayıt ettirmek zorundadır.)

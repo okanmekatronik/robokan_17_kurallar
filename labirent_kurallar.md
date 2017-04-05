@@ -1,6 +1,5 @@
 ---
 title: Robokan '17 Labirent Kategorisi Kuralları
-layout: post
 ---
 
 ![Title Image](img/labirent/title.png)
